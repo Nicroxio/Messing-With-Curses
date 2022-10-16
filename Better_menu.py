@@ -4,6 +4,7 @@ from math import trunc
 
 LIST = 5
 
+#This is a test comment
 
 def main(screen):
     ###Init screen size###
